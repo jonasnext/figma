@@ -1,2 +1,1 @@
-# figma
-figma extension
+# ![figma](img/logo.svg)
